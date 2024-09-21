@@ -1,7 +1,7 @@
 url: https://agorapp.dev
-status: up
-code: 200
-responseTime: 106
-lastUpdated: 2024-09-20T23:01:39.183Z
+status: down
+code: 502
+responseTime: 137
+lastUpdated: 2024-09-21T15:30:07.728Z
 startTime: 2024-09-12T10:23:21.171Z
 generator: Upptime <https://github.com/upptime/upptime>
