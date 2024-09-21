@@ -4,18 +4,20 @@
     "url": "https://agorapp.dev",
     "icon": "https://icons.duckduckgo.com/ip3/agorapp.dev.ico",
     "slug": "agor-app-production-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 106,
-    "timeWeek": 234,
-    "timeMonth": 224,
-    "timeYear": 224,
-    "dailyMinutesDown": {}
+    "time": 218,
+    "timeDay": 122,
+    "timeWeek": 222,
+    "timeMonth": 218,
+    "timeYear": 218,
+    "dailyMinutesDown": {
+      "2024-09-21": 0
+    }
   },
   {
     "name": "AgorApp Production Backend",
